@@ -1,0 +1,359 @@
+{
+  "cutoff_minute": 75.0,
+  "matches": 1941,
+  "features": 426,
+  "date_min": "2016-06-10 19:00:00+00:00",
+  "date_max": "2018-07-15 15:00:00+00:00",
+  "competitions": {
+    "France": 380,
+    "England": 380,
+    "Spain": 380,
+    "Italy": 380,
+    "Germany": 306,
+    "World_Cup": 64,
+    "European_Championship": 51
+  },
+  "target_distribution": {
+    "home_win": 872,
+    "away_win": 592,
+    "draw": 477
+  },
+  "average_total_goals": 2.6888201957753735,
+  "median_events_per_match_before_cutoff": 1364.0,
+  "cleaning_report": {
+    "raw_events": 3251294,
+    "duplicate_events": 0,
+    "events_after_cutoff": 608408,
+    "events_for_unknown_match": 0,
+    "events_for_unknown_team": 0,
+    "events_without_valid_time": 0,
+    "events_with_missing_coordinates": 422,
+    "kept_events": 2642886,
+    "top_event_names": [
+      [
+        "Pass",
+        1374397
+      ],
+      [
+        "Duel",
+        701785
+      ],
+      [
+        "Others on the ball",
+        208026
+      ],
+      [
+        "Free Kick",
+        154487
+      ],
+      [
+        "Interruption",
+        105482
+      ],
+      [
+        "Foul",
+        39783
+      ],
+      [
+        "Shot",
+        33883
+      ],
+      [
+        "Save attempt",
+        13706
+      ],
+      [
+        "Offside",
+        6582
+      ],
+      [
+        "Goalkeeper leaving line",
+        4755
+      ]
+    ],
+    "top_subevent_names": [
+      [
+        "Simple pass",
+        1067075
+      ],
+      [
+        "Ground attacking duel",
+        224111
+      ],
+      [
+        "Ground defending duel",
+        223119
+      ],
+      [
+        "Touch",
+        142559
+      ],
+      [
+        "Air duel",
+        132175
+      ],
+      [
+        "Ground loose ball duel",
+        122380
+      ],
+      [
+        "High pass",
+        107081
+      ],
+      [
+        "Ball out of the field",
+        104744
+      ],
+      [
+        "Head pass",
+        78166
+      ],
+      [
+        "Throw in",
+        69227
+      ],
+      [
+        "Cross",
+        49329
+      ],
+      [
+        "Clearance",
+        44880
+      ],
+      [
+        "Foul",
+        37164
+      ],
+      [
+        "Launch",
+        36500
+      ],
+      [
+        "Free Kick",
+        35814
+      ],
+      [
+        "Shot",
+        33883
+      ],
+      [
+        "Goal kick",
+        25154
+      ],
+      [
+        "Smart pass",
+        24756
+      ],
+      [
+        "Acceleration",
+        20587
+      ],
+      [
+        "Corner",
+        15396
+      ],
+      [
+        "Hand pass",
+        11490
+      ],
+      [
+        "Reflexes",
+        8318
+      ],
+      [
+        "Free kick cross",
+        6770
+      ],
+      [
+        "Unknown",
+        6582
+      ],
+      [
+        "Save attempt",
+        5388
+      ],
+      [
+        "Goalkeeper leaving line",
+        4755
+      ],
+      [
+        "Free kick shot",
+        1705
+      ],
+      [
+        "Hand foul",
+        1602
+      ],
+      [
+        "Whistle",
+        738
+      ],
+      [
+        "Penalty",
+        421
+      ],
+      [
+        "Protest",
+        339
+      ],
+      [
+        "Out of game foul",
+        239
+      ],
+      [
+        "Late card foul",
+        237
+      ],
+      [
+        "Simulation",
+        88
+      ],
+      [
+        "Time lost foul",
+        60
+      ]
+    ],
+    "top_tag_ids": [
+      [
+        1801,
+        1730902
+      ],
+      [
+        1802,
+        586886
+      ],
+      [
+        701,
+        270566
+      ],
+      [
+        703,
+        270058
+      ],
+      [
+        702,
+        160689
+      ],
+      [
+        1401,
+        141383
+      ],
+      [
+        502,
+        50468
+      ],
+      [
+        501,
+        50390
+      ],
+      [
+        402,
+        46301
+      ],
+      [
+        801,
+        46021
+      ],
+      [
+        504,
+        41727
+      ],
+      [
+        503,
+        41715
+      ],
+      [
+        1901,
+        38525
+      ],
+      [
+        401,
+        33464
+      ],
+      [
+        201,
+        26043
+      ],
+      [
+        901,
+        24708
+      ],
+      [
+        1601,
+        17115
+      ],
+      [
+        2101,
+        17014
+      ],
+      [
+        602,
+        14511
+      ],
+      [
+        601,
+        14270
+      ],
+      [
+        1302,
+        10399
+      ],
+      [
+        302,
+        9688
+      ],
+      [
+        101,
+        7957
+      ],
+      [
+        1201,
+        6618
+      ],
+      [
+        403,
+        5575
+      ],
+      [
+        1702,
+        5203
+      ],
+      [
+        1203,
+        4113
+      ],
+      [
+        1205,
+        4084
+      ],
+      [
+        1202,
+        3604
+      ],
+      [
+        2001,
+        3320
+      ],
+      [
+        1216,
+        2905
+      ],
+      [
+        1215,
+        2605
+      ],
+      [
+        1212,
+        2599
+      ],
+      [
+        301,
+        2403
+      ],
+      [
+        1210,
+        2299
+      ]
+    ]
+  }
+}

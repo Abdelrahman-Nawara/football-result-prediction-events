@@ -1,0 +1,22 @@
+.DS_Store
+**/.DS_Store
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.matplotlib-cache/
+
+# Local/smoke-run outputs
+artifacts_smoke*/
+artifacts_smoke_no_team*/
+artifacts_notebook/
+
+# Intermediate notebook variants; keep football_result_prediction.ipynb as the clean main notebook.
+football_result_prediction_notebook.ipynb
+football_result_prediction_notebook_executed.ipynb
+
+# Local environments
+.venv/
+venv/
+env/
+.env
+

@@ -1,0 +1,27 @@
+{
+  "split": "chronological",
+  "test_size": 0.2,
+  "train_matches": 1553,
+  "test_matches": 388,
+  "train_target_distribution": {
+    "home_win": 693,
+    "away_win": 472,
+    "draw": 388
+  },
+  "test_target_distribution": {
+    "home_win": 179,
+    "away_win": 120,
+    "draw": 89
+  },
+  "best_model": "softmax_logistic_regression_low_l2_numpy",
+  "best_model_metrics": {
+    "model": "softmax_logistic_regression_low_l2_numpy",
+    "accuracy": 0.6932989690721649,
+    "balanced_accuracy": 0.6664504564824695,
+    "macro_f1": 0.6656078064984947,
+    "weighted_f1": 0.706257431231345
+  },
+  "sklearn_available": false,
+  "sklearn_import_error": "numpy.dtype size changed, may indicate binary incompatibility. Expected 96 from C header, got 88 from PyObject",
+  "fallback_note": "NumPy softmax regression was used because scikit-learn could not be imported."
+}
