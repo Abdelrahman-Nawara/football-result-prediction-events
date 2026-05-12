@@ -1,7 +1,7 @@
 {
-  "cutoff_minute": 75.0,
+  "cutoff_minute": 80.0,
   "matches": 1941,
-  "features": 426,
+  "features": 501,
   "date_min": "2016-06-10 19:00:00+00:00",
   "date_max": "2018-07-15 15:00:00+00:00",
   "competitions": {
@@ -19,340 +19,340 @@
     "draw": 477
   },
   "average_total_goals": 2.6888201957753735,
-  "median_events_per_match_before_cutoff": 1364.0,
+  "median_events_per_match_before_cutoff": 1446.0,
   "cleaning_report": {
     "raw_events": 3251294,
     "duplicate_events": 0,
-    "events_after_cutoff": 608408,
+    "events_after_cutoff": 447009,
     "events_for_unknown_match": 0,
     "events_for_unknown_team": 0,
     "events_without_valid_time": 0,
-    "events_with_missing_coordinates": 422,
-    "kept_events": 2642886,
+    "events_with_missing_coordinates": 477,
+    "kept_events": 2804285,
     "top_event_names": [
       [
         "Pass",
-        1374397
+        1455699
       ],
       [
         "Duel",
-        701785
+        746293
       ],
       [
         "Others on the ball",
-        208026
+        221062
       ],
       [
         "Free Kick",
-        154487
+        163996
       ],
       [
         "Interruption",
-        105482
+        111754
       ],
       [
         "Foul",
-        39783
+        42468
       ],
       [
         "Shot",
-        33883
+        36268
       ],
       [
         "Save attempt",
-        13706
+        14690
       ],
       [
         "Offside",
-        6582
+        6960
       ],
       [
         "Goalkeeper leaving line",
-        4755
+        5095
       ]
     ],
     "top_subevent_names": [
       [
         "Simple pass",
-        1067075
+        1130078
       ],
       [
         "Ground attacking duel",
-        224111
+        238548
       ],
       [
         "Ground defending duel",
-        223119
+        237492
       ],
       [
         "Touch",
-        142559
+        151301
       ],
       [
         "Air duel",
-        132175
+        140430
       ],
       [
         "Ground loose ball duel",
-        122380
+        129823
       ],
       [
         "High pass",
-        107081
+        112966
       ],
       [
         "Ball out of the field",
-        104744
+        110964
       ],
       [
         "Head pass",
-        78166
+        82702
       ],
       [
         "Throw in",
-        69227
+        73246
       ],
       [
         "Cross",
-        49329
+        52703
       ],
       [
         "Clearance",
-        44880
+        47765
       ],
       [
         "Foul",
-        37164
+        39611
       ],
       [
         "Launch",
-        36500
+        38655
       ],
       [
         "Free Kick",
-        35814
+        38118
       ],
       [
         "Shot",
-        33883
+        36268
       ],
       [
         "Goal kick",
-        25154
+        26746
       ],
       [
         "Smart pass",
-        24756
+        26389
       ],
       [
         "Acceleration",
-        20587
+        21996
       ],
       [
         "Corner",
-        15396
+        16366
       ],
       [
         "Hand pass",
-        11490
+        12206
       ],
       [
         "Reflexes",
-        8318
+        8930
       ],
       [
         "Free kick cross",
-        6770
+        7236
       ],
       [
         "Unknown",
-        6582
+        6960
       ],
       [
         "Save attempt",
-        5388
+        5760
       ],
       [
         "Goalkeeper leaving line",
-        4755
+        5095
       ],
       [
         "Free kick shot",
-        1705
+        1824
       ],
       [
         "Hand foul",
-        1602
+        1712
       ],
       [
         "Whistle",
-        738
+        790
       ],
       [
         "Penalty",
-        421
+        460
       ],
       [
         "Protest",
-        339
+        392
       ],
       [
         "Out of game foul",
-        239
+        269
       ],
       [
         "Late card foul",
-        237
+        256
       ],
       [
         "Simulation",
-        88
+        93
       ],
       [
         "Time lost foul",
-        60
+        79
       ]
     ],
     "top_tag_ids": [
       [
         1801,
-        1730902
+        1835675
       ],
       [
         1802,
-        586886
+        623468
       ],
       [
         701,
-        270566
+        287863
       ],
       [
         703,
-        270058
+        287362
       ],
       [
         702,
-        160689
+        170477
       ],
       [
         1401,
-        141383
+        150148
       ],
       [
         502,
-        50468
+        53790
       ],
       [
         501,
-        50390
+        53700
       ],
       [
         402,
-        46301
+        49486
       ],
       [
         801,
-        46021
+        49279
       ],
       [
         504,
-        41727
+        44507
       ],
       [
         503,
-        41715
+        44501
       ],
       [
         1901,
-        38525
+        41220
       ],
       [
         401,
-        33464
+        35807
       ],
       [
         201,
-        26043
+        27864
       ],
       [
         901,
-        24708
+        26234
       ],
       [
         1601,
-        17115
+        18287
       ],
       [
         2101,
-        17014
+        18110
       ],
       [
         602,
-        14511
+        15341
       ],
       [
         601,
-        14270
+        15088
       ],
       [
         1302,
-        10399
+        11046
       ],
       [
         302,
-        9688
+        10318
       ],
       [
         101,
-        7957
+        8546
       ],
       [
         1201,
-        6618
+        7105
       ],
       [
         403,
-        5575
+        5964
       ],
       [
         1702,
-        5203
+        5690
       ],
       [
         1203,
-        4113
+        4419
       ],
       [
         1205,
-        4084
+        4355
       ],
       [
         1202,
-        3604
+        3845
       ],
       [
         2001,
-        3320
+        3533
       ],
       [
         1216,
-        2905
+        3128
       ],
       [
         1215,
-        2605
+        2789
       ],
       [
         1212,
-        2599
+        2765
       ],
       [
         301,
-        2403
+        2589
       ],
       [
         1210,
-        2299
+        2457
       ]
     ]
   }

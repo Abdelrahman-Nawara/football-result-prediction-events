@@ -9,6 +9,7 @@ __pycache__/
 artifacts_smoke*/
 artifacts_smoke_no_team*/
 artifacts_notebook/
+artifacts/cutoff_*/
 
 # Intermediate notebook variants; keep football_result_prediction.ipynb as the clean main notebook.
 football_result_prediction_notebook.ipynb
