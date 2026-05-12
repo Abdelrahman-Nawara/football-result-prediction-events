@@ -1,0 +1,23 @@
+{
+  "competitions_used": [
+    "England",
+    "France",
+    "Germany",
+    "Italy",
+    "Spain"
+  ],
+  "cutoff_minutes_tested": [
+    45.0,
+    55.0,
+    65.0,
+    75.0,
+    80.0
+  ],
+  "presented_cutoff": 75.0,
+  "best_model": "random_forest",
+  "accuracy": 0.7507,
+  "balanced_accuracy": 0.7369,
+  "macro_f1": 0.7319,
+  "weighted_f1": 0.7565,
+  "note": "75-min cutoff chosen for presentation. World Cup and European Championship excluded."
+}
